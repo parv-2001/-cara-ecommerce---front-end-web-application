@@ -17,6 +17,6 @@ This project is open-source and available under the MIT License.
 Contact--------------------
 If you have any questions or need assistance, feel free to contact the project maintainer:
 
-Your Name-Parv Choudhary
+Name-Parv Choudhary
 Email: parvchoudharytatarpur@gmail.com
 This version of the README emphasizes that the website is designed without responsive elements, and the layout remains fixed. You can adjust the HTML and CSS to maintain fixed sizes and positions for elements.
